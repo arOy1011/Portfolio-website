@@ -72,13 +72,7 @@
     }
 /*home*/
 #home {
-    /* background-image: url("images/bg-home.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100vh; 
-    width: 100vw; */
-    height: inherit;
+  height: auto;
 }
 
    /*net mara just vlo dekhanor jonno*/
@@ -726,8 +720,9 @@
   padding: #bd2f2f;
   justify-content: flex-end;
   text-align: center;
-  width: 60vw;height: inherit;
+  width: 60vw;
   color: rgb(251, 251, 251);
+  height: inherit;
 }
 .l60-box {
   display: flex;
