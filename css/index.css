@@ -72,7 +72,7 @@
     }
 /*home*/
 #home {
-  height: auto;
+  height: fit-content;
 }
 
    /*net mara just vlo dekhanor jonno*/
@@ -778,6 +778,7 @@ p.p3{
 #bibliography {
   display: flex;
   background-color: rgba(77, 90, 86, 0.583);
+  height: fit-content;
 }
 .bibcontainer{
   display: flex;
